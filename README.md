@@ -1,5 +1,5 @@
 <h3 align="center">Olá, seja bem vindo(a) ao meu perfil 🖖</h3>
-Eu me chamo Davison e sou acadêmico de Ciência da Computação na Uniderp, atualmente estou no 5º semestre e também trabalho como QA tester na <a href="https://incentivar.io/pt/">Incentivar</a>, e para que você me conheça melhor vou listar algumas coisas legais sobre mim:
+Eu me chamo Davison e sou acadêmico de Ciência da Computação na Uniderp, atualmente estou no 5º semestre e também trabalho como QA tester na <a href="https://incentivar.io/pt/" targer="_blank">Incentivar</a>, e para que você me conheça melhor vou listar algumas coisas legais sobre mim:
 
 - ❤️ Amo codar.
 - 🤝 Sempre procuro ajudar os meus brothers.
