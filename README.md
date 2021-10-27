@@ -7,6 +7,3 @@ Eu me chamo Davison e sou acadêmico de Ciência da Computação na Uniderp, atu
 <a href="https://github.com/davisonalves/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davisonalves" />
 </a>
-<a href="https://github.com/davisonalves/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisonalves&layout=compact" />
-</a>
